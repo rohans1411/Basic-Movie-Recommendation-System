@@ -1,0 +1,2 @@
+Movie Recommendation System
+This Jupyter Notebook implements a Movie Recommendation System using collaborative filtering and content-based filtering techniques. The system recommends movies to users based on their preferences and viewing history. It leverages popular datasets like MovieLens and uses machine learning algorithms to provide personalized movie suggestions. The notebook demonstrates data preprocessing, model training, and evaluation steps, allowing users to understand how movie recommendations can be generated using user-item interactions.
